@@ -5,7 +5,7 @@ xmlns:gap = "http://phonegap.com/ns/1.0"
 id = "com.phonegap.app8"
 version = "1.0.0">
  
- <name> app8 Mostrar aplicaciones </name>
+ <name> App8 Mostrar aplicaciones </name>
  
  <description>
  Aplicaion que muestra tres diferentes aplicaciones 
